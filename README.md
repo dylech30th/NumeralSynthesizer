@@ -1,2 +1,2 @@
 # NumeralSynthesizer
-A console program for practicing *les numbres en Francais*
+Get f**ked by *les numbres en Francais*?
